@@ -47,12 +47,12 @@ This repository was created to:
 
 ```text
 src/
-├── java8.java
-├── java9.java
-├── java10.java
-├── java11.java
+├── java8/
+├── java9/
+├── java10/
+├── java11/
 ├── ...
-└── java21.java
+└── java21/
 ```
 
 Each package contains runnable examples demonstrating the major features introduced in that Java version.
