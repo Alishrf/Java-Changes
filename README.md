@@ -64,7 +64,7 @@ Each package contains runnable examples demonstrating the major features introdu
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone  https://github.com/Alishrf/Java-Changes.git
 ```
 
 Open the project in your favorite IDE (IntelliJ IDEA, Eclipse, or VS Code).
