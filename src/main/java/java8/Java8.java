@@ -1,5 +1,6 @@
+package java8;
+
 import java.util.*;
-import java.util.stream.Stream;
 
 public class Java8 {
 

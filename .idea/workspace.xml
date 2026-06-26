@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7da85a77-b3a5-48ce-847c-d9497e82806d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Java8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Java19ToJava21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/java9/Java9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Java8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/java8/Java8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,14 +45,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
+    "last_opened_file_path": "C:/Users/AliPC/Desktop/Migration/JavaProject/JavaChanges/pom.xml",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Java8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java8" />
+      <option name="MAIN_CLASS_NAME" value="java8.Java8" />
       <module name="JavaChanges" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -69,6 +75,8 @@
       <option name="presentableId" value="Default" />
       <updated>1782463639538</updated>
       <workItem from="1782463641050" duration="2858000" />
+      <workItem from="1782467720866" duration="33000" />
+      <workItem from="1782467775324" duration="2408000" />
     </task>
     <servers />
   </component>
